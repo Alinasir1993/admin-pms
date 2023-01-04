@@ -1,0 +1,16 @@
+{
+    "heading": "Business Sources",
+    "sub_heading": "Please change your Business Sources",
+    "add":  "Add Business Source",
+    "edit":  "Edit Business Source",
+    "list": {
+        "name": "Name",
+        "commission_name": "Commission Name",
+        "registration_number": "Registration Number"
+    },
+    "form": {
+        "name": "Name",
+        "commission_name": "Commission Name",
+        "registration_number": "Registration Number"
+    }
+}

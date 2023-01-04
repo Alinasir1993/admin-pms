@@ -1,0 +1,20 @@
+{
+    "heading": "Amenities",
+    "add": "Add Cashier Location",
+    "edit": "Edit Cashier Location",
+    "sub_heading": "Please change your amenities",
+    "list": {
+        "name": "Name",
+        "short_key": "Short key"
+    },
+    "form": {
+        "name": "Name",
+        "nickname": "Nickname",
+        "stores": "Stores",
+        "restaurants": "Restaurants",
+        "pos_location": "POS Location",
+        "add_amenity": "Add Amenity",
+        "edit_amenity": "Edit Amenity",
+        "short_key": "Short key"
+    }
+}

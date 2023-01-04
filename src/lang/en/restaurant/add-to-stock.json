@@ -1,0 +1,22 @@
+{
+    "heading": "Add To Stock",
+    "list": {
+        "category_name": "Category",
+        "item_name": "Item",
+        "unit_name": "Unit",
+        "received_qty_display": "Qty",
+        "accepted_qty": "Qty",
+        "status": "Status"
+    },
+    "form": {
+        "supplier": "Supplier",
+        "order_placed": "Order Date",
+        "billing_to": "Billing To",
+        "shipping_to": "Shipping To",
+        "total_products": "Total Products",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive"
+    }
+}

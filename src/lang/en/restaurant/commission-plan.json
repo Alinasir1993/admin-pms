@@ -1,0 +1,15 @@
+{
+    "heading": "Commission Plan",
+    "add" :"Add Commission",
+    "edit" :"Edit Commission",
+    "list": {
+        "name": "Name"
+    },
+    "form": {
+        "name": "Name",
+        "type": "Type",
+        "inclusive_tax": "Inclusive Tax",
+        "minimum_order_value": "Minimum Order Value",
+        "commission_percentage": "Commission Percentage"
+    }
+}

@@ -1,0 +1,16 @@
+{
+    "heading": "Notes",
+    "sub_heading": "Please change your notes",
+    "list": {},
+    "form": { 
+        "notes": "Notes",
+        "date_time": "Date & time",
+        "priority": "Priority",
+        "enter_notes": "Enter notes",
+        "select_priority": "Select priority",
+        "high": "High",
+        "moderate": "Moderate",
+        "low": "Low"
+        
+    }
+}

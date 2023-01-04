@@ -1,0 +1,13 @@
+{
+    "heading": "Activity Manifest",
+    "list": {
+        "id": "ID",
+        "guest_name_display": "Contact",
+        "confirmation_no": "Confirmation no",
+        "total_amount_display": "Total",
+        "amount_display": "Amount",
+        "people": "People",
+        "status": "Paid/Due",
+        "notes": "Notes"
+    }
+}

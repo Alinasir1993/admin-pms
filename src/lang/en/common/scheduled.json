@@ -1,0 +1,39 @@
+{
+    "heading": "Brodcast Scheduled",
+    "sub_heading": "Please change your Specials",
+    "create_push_ad": "Create Special",
+    "list": {
+        "title": "Ad Title",
+        "price": "Price",
+        "price_display": "Price",
+        "time_range": "Time",
+        "frequency": "Frequency",
+        "broadcast_types": "Broadcast Types",
+        "broadcast_types_display": "Broadcast Types",
+        "guest_types_display": "Broadcast Types",
+        "guest_types": "Guest Types",
+        "frequency_display": "Frequency",
+        "file_list": "Advertisment"
+    },
+    "form": {
+        "title": "Ad Title",
+        "flyer_title": "Flyer Title",
+        "price": "Price  (optional)",
+        "frequency": "Select Frequency",
+        "description": "Details",
+        "create_flyer": "Create Flyer",
+        "food": "Food",
+        "restaurant": "Restaurant",
+        "drink": "Drink",
+        "event": "Event",
+        "service": "Service",
+        "special": "Special",
+        "service_events": "Services",
+        "menu": "Menu",
+        "start_time": "Time",
+        "end_time": "End Time",
+        "start_date": "Date",
+        "end_date": "End Date",
+        "day_of_week": "Day"
+    }
+}

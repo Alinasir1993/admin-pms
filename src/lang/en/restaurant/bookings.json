@@ -1,0 +1,41 @@
+{
+    "heading": "Restaurant Reservations",
+    "add": "Add Reservation",
+    "edit": "Edit Reservation",
+    "list": {
+        "booking_date": "Requested Date & Time",
+        "restaurant_name": "Restaurant Name",
+        "guest_name": "Guest Name",
+        "phone_no_display": "Phone #",
+        "room_no_display": "Room #",
+        "guest_count": "Guest Count",
+        "status": "Status",
+        "table_position": "Table Position",
+        "area_name": "Area"
+    },
+    "form": {
+        "booking_date": "Requested Date & Time",
+        "restaurant_name": "Restaurant Name",
+        "guest_name": "Guest Name",
+        "room": "Room Number, Guest Name or Area",
+        "no_of_guests": "Enter # of Guests",
+        "guest_count": "Guest Count",
+        "status": "Status",
+        "select_restaurant": "Select Restaurant",
+        "date_time": "Date & Time",
+        "name_of_request": "Name of Request",
+        "pickup_location": "Enter pickup location",
+        "drop_location": "Enter drop location",
+        "no_of_rider": "Enter # of rider",
+        "table_position": "Table Position",
+        "area": "Area",
+        "notes": "Notes or Description",
+        "notes_placeholder": "Enter any notes or describe the request",
+        "all": "All",
+        "pending" :"Pending",
+        "accepted": "Accepted",
+        "cancelled" :"Cancelled",
+        "denied":"Denied"
+
+    }
+}

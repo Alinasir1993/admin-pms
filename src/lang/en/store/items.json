@@ -1,0 +1,35 @@
+{
+    "heading": "Items",
+    "list": {
+        "name": "Name",
+        "unit_name": "Unit",
+        "category_name": "Category",
+        "short_code": "Short Code",
+        "price_display": "Price",
+        "file_list": "Image",
+        "storage_area_name": "Storage Area",
+        "quantity": "Quantity",
+        "quantity_display": "Quantity",
+        "description": "Description",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Name",
+        "unit": "Unit",
+        "min_stock": "Min Stock",
+        "max_stock": "Max Stock",
+        "reorder_level": "Re-order Level",
+        "category_id": "Item Categories",
+        "short_code": "Short Code",
+        "price": "Price",
+        "file_list": "Image",
+        "quantity": "Quantity",
+        "description": "Description",
+        "tax": "Tax",
+        "status": "Status",
+        "storage_area_id": "Storage Area",
+        "add_item": "Add Item",
+        "edit_item": "Edit Item"
+       
+    }
+}

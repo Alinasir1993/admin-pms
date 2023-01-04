@@ -1,0 +1,23 @@
+{
+    "heading": "Item Categories",
+    "add": "Item Categories",
+    "edit": "Item Categories",
+    "sub_heading": "Please change your Item Categories",
+    "add_menu_cate": "Add Menu-Category",
+    "edit_menu_cate" : "Edit Menu-Category",
+    "list": {
+        "name": "Item Category Name",
+        "type": "Type",
+        "menu_group": "Menu Group",
+        "menu_group_name": "Menu Group"
+    },
+    "form": {
+        "name": "Item Category Name",
+        "type": "Type",
+        "food": "Food",
+        "drink": "Drink",
+        "menu_group": "Menu Group",
+        "bg_color": "Background Color",
+        "font_color": "Font Color"
+    }
+}

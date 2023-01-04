@@ -1,0 +1,15 @@
+{
+    "heading": "Minibar Items",
+    "list": {
+        "name": "Name",
+        "price": "Price",
+        "description": "Description"
+    },
+    "form": {
+        "name": "Name",
+        "add_minibar_item": "Add Minibar Item",
+        "edit_minibar_item": "Edit Minibar Item",
+        "price": "Price",
+        "description": "Description"
+    }
+}

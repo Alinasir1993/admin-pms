@@ -1,0 +1,64 @@
+{
+    "orderTable": {
+        "running_tables": "Running Tables"
+    },
+    "orderMenus": {
+        "food": "Food",
+        "drink": "Drink",
+        "menu_options": "Menu Options",
+        "add_ons" : "Add Ons"
+    },
+    "orderBottom": {
+        "extra_charges": "Extra Charges",
+        "apply_discount": "Discount",
+        "no_charges": "No Charges",
+        "utensils_and_condiments": "Uten./Cond."
+    },
+    "orderMenuItems": {
+        "new_order": "New Order",
+        "no_of_people": "# Of People",
+        "items_in_cart": "item(s) in cart",
+        "amount": "Amount",
+        "discount": "Discount",
+        "total_tax": "Total Tax",
+        "extra_charges": "Extra Charges",
+        "tip": "Tip",
+        "no_tip": "No Tip",
+        "custom_tip": "Custom Tip",
+        "add_tip": "Add Tip",
+        "total": "Total",
+        "item": "Item",
+        "quantity": "Quantity",
+        "each": "Each",
+        "tap_an_item":"Tap an item from left",
+        "options":"Options",
+        "add_ons":"Add Ons",
+        "sub_total":"Sub Total",
+        "tip_amount":"Tip Amount",
+        "menu_options":"Menu Options",
+        "menu_add_ons":"Menu Add Ons"
+    },
+    "applyDiscount":{
+        "name": "Name", 
+        "apply_on": "Apply On",
+        "amount": "Amount",
+        "bulk_item": "Bulk Item",
+        "nothing": "Nothing to select",
+        "remove_discount": "Remove Discount",
+        "discount": "Discount"
+    },
+    "payDialog" :{
+        "payment"   :      "Payment",
+        "collect_from_customer": "Please collect cash from the customer",
+        "cash"   :      "Cash",
+        "card"   :      "Card",
+        "bank"   :      "Bank",
+        "cheque"   :    "Cheque",
+        "credit"   :    "Credit",
+        "bank_name"   :    "Bank name",
+        "bank_account"   :    "Bank Account #",
+        "ifsc"   :    "IFSC",
+        "recipient"   :    "Recipient Name",
+        "cheque_date"   :   "Cheque Date"
+    }
+}

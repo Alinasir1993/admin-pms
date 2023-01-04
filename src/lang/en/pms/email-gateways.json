@@ -1,0 +1,30 @@
+{
+    "heading": "Email Gateways",
+    "sub_heading": "Please change your Email Gateways",
+    "add": "Add Email Gateways",
+    "edit": "Edit Email Gateways",
+    "add_payment": "Add Payment Gateways",
+    "edit_payment": "Edit Payment Gateways",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "from_name": "From Name",
+        "from_email": "From Email",
+        "host": "Host",
+        "port": "Port",
+        "status": "Status"
+    },
+    "form": {
+        "short_code": "Short Code",
+        "name": "Name",
+        "from_name": "From Name",
+        "from_email": "From Email",
+        "api_secret_live": "Live Api Secret",
+        "api_secret_test": "Test Api Secret",
+        "api_key_live": "Live Api Key",
+        "api_key_test": "Test Api Key",
+        "host": "Host",
+        "port": "Port",
+        "status": "Status"
+    }
+}

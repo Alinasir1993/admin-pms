@@ -1,0 +1,9 @@
+{
+    "heading": "Here you can send links to Guests to download the Zurra Guest App or to Staff to run the Zurra Staff App on their personal device.",
+    "form": {
+        "device_type": "Select Type of Device",
+        "app_type": "Select App",
+        "mobile_no": "Phone Number",
+        "send_app": "Send App"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "heading": "Extra Charges",
+    "sub_heading": "Please change your Extra Charges",
+    "list": {
+        "name": "Title",
+        "short_code": "Short Code",
+        "rate": "Rate",
+        "type": "Type",
+        "value": "Value",
+        "extra_charge_display": "Extra Charge"
+    },
+    "form": {
+        "name": "Title",
+        "short_code": "Short Code",
+        "rate": "Rate",
+        "type": "Type",
+        "value": "Value",
+        "extra_charge_display": "Extra Charge",
+        "add_extra_charges": "Add Extra Charges",
+        "edit_extra_charges": "Edit Extra Charges"
+    }
+}

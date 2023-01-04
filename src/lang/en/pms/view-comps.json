@@ -1,0 +1,10 @@
+{
+    "heading": "View COMPS",
+    "list": {
+        "request": "Request",
+        "comps": "COMPS",
+        "requested": "Requested",
+        "response_time": "Response Time",
+        "status": "Status"
+    }
+}

@@ -1,0 +1,12 @@
+{
+    "heading": "Stocks",
+    "list": {
+        "name": "Item",
+        "unit": "Unit",
+        "min_stock": "Min Stock",
+        "max_stock": "Max Stock",
+        "current_stock": "Current Stock",
+        "status": "Status"
+    }
+
+}

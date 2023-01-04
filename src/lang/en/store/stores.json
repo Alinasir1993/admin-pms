@@ -1,0 +1,38 @@
+{
+    "heading": "Retail Store Locations",
+    "list": {
+        "name": "Store Name",
+        "media_logo": "Logo",
+        "nick_name": "Nick Name",
+        "working_hours_from": "Working Hours Form",
+        "working_hours_display": "Working Hours",
+        "working_hours_from_display": "Working Hours Form",
+        "working_hours_to": "Working Hours To",
+        "working_hours_to_display": "Working Hours To",
+        "logo_path": "Logo",
+        "description": "Description"
+    },
+    "form": {
+        "name": "Store Name",
+        "phone_no": "Phone #",
+        "nick_name": "Store Nick Name (if any)",
+        "working_hours_from": "Working hours from",
+        "working_hours_to": "Working hours To",
+        "description": "Description",
+        "working_hours": "Working Hours",
+        "from": "From",
+        "to": "To",
+        "title": "Title",
+        "twentyFourhrs": "24 hrs",
+        "logo": "Logo",
+        "cover_photo": "Cover Photo",
+        "gallery": "Gallery",
+        "upload_video": "Upload Store Video",
+        "add_store": "Add Supplier",
+        "edit_store": "Edit Supplier",
+        "add_store_display": "Add Store",
+        "edit_store_display": "Edit Store",
+        "app_cover_media": "App Cover Photo Or Video",
+        "app_header_media": "App Header Photo Or Video"
+    }
+}

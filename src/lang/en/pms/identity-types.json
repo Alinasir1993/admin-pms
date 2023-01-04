@@ -1,0 +1,14 @@
+{
+    "heading": "Identity Types",
+    "sub_heading": "Please change your Identity Types",
+    "add": "Add Identity Type",
+    "edit": "Edit Identity Type",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code"
+    },
+    "form": {
+        "name": "Identity Types",
+        "short_code": "Short Code"
+    }
+}

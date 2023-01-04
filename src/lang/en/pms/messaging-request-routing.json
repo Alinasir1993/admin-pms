@@ -1,0 +1,27 @@
+{
+    "heading": "Routing",
+    "heading_messaging": "Messaging",
+    "message_request": "Message Request",
+    "depatment": "Department",
+    "depatments": "Departments",
+    "send_to": "Rule",
+    "routing": "Routing",
+    "select_rule": "Select routing rule",
+    "sub_heading": "Please change your Message Routing",
+    "message_routing": "Message Routing",
+    "message_requests": "Message Rules",
+    "currently": "Currently, you have no forward rules.",
+    "send_message": "Send Message",
+    "list": {
+        "title": "Title",
+        "status": "Status"
+    },
+    "form": {
+        "description": "Description",
+        "title": "Title",
+        "from": "From",
+        "to": "To",
+        "staff": "Staff",
+        "department": "Department"
+    }
+}

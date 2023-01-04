@@ -1,0 +1,13 @@
+{
+    "heading": "Broadcast Details",
+    "list": {
+        "guest_name": "Guest Name",
+        "mobile": "Mobile",
+        "email": "Email",
+        "sms_status": "SMS Status",
+        "email_status": "Email Status",
+        "push_status": "Push Status",
+        "blacklisted_phone_reason": "Reason for Failure",
+        "enter_guest": "Enter Guest Name, Mobile # or Email"
+    }
+}

@@ -1,0 +1,32 @@
+{
+    "heading": "Discounts",
+    "sub_heading": "Please change your Discounts",
+    "list": {
+        "name": "Name",
+        "apply_on": "Apply On",
+        "type": "Type",
+        "discount_value": "Discount",
+        "discount_value_display": "Discount"
+    },
+    "form": {
+        "name": "Discounts Name",
+        "type": "Type",
+        "apply_on": "Apply On",
+        "open_discount": "Open Discount",
+        "ask_remark": "Ask Remark",
+        "menu_id": "Menu",
+        "minimum_price": "Minimum Amount",
+        "discount_value": "Discount Value",
+        "tax_exempted": "Tax Exempted",
+        "inactive_order_type": "Inactive for Order Type",
+        "inactive_days": "Inactive on following days",
+        "active_time": "Active Time",
+        "delivery": "Delivery",
+        "room_service": "Room Service",
+        "take_out": "Pickup",
+        "dine_in": "Dine In",
+        "discount_value_display": "Discount",
+        "add_discount": "Add Discount",
+        "edit_discount": "Edit Discount"
+    }
+}

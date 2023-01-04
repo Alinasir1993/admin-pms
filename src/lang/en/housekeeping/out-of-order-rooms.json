@@ -1,0 +1,15 @@
+{
+    "heading": "Out Of Order Rooms",
+    "add": "Out Of Order Room",
+    "list": {
+        "name": "Name",
+        "room_name": "Room #",
+        "out_of_order_date_display": "Out Of Order Date",
+        "out_of_order_reason": "Reason",
+        "reason": "Reason"
+    },
+    "form": {
+        "reason": "Reason",
+        "status": "Status"
+    }
+}

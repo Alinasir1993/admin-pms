@@ -1,0 +1,20 @@
+{
+    "heading": "Holidays",
+    "sub_heading": "Please change your Holidays",
+    "add": "Add Holiday",
+    "edit": "Edit Holiday",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "from": "From",
+        "to": "To",
+        "description": "Description"
+    },
+    "form": {
+        "name": "Holiday Name",
+        "short_code": "Short Code",
+        "from": "From",
+        "to": "To",
+        "description": "Description"
+    }
+}

@@ -1,0 +1,22 @@
+{
+    "heading": "Events",
+    "add": "Add Event",
+    "edit": "Edit Event",
+    "sub_heading": "Please change your Departments",
+    "list": {
+        "title": "Title",
+        "description": "Description",
+        "file_list": "Images",
+        "status": "Status",
+        "date_time": "Date Time",
+        "date_time_display": "Date Time",
+        "start_date_display": "Start Date Time",
+        "end_date_display": "End Date Time"
+    },
+    "form": {
+        "description": "Description",
+        "title": "Title",
+        "status": "Status",
+        "upload_ad": "Upload Ad/Flyer"
+    }
+}

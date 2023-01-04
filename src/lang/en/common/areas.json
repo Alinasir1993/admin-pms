@@ -1,0 +1,14 @@
+{
+    "heading": "Areas",
+    "add":  "Add Area",
+    "edit": "Edit Area",
+    "sub_heading": "Please change your Areas",
+    "list": {
+        "name": "Name",
+        "type": "Type"
+    },
+    "form": {
+        "type": "Type",
+        "name": "Name"
+    }
+}

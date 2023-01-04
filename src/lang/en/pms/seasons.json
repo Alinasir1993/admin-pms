@@ -1,0 +1,20 @@
+{
+    "heading": "Seasons",
+    "add": "Add Season",
+    "edit": "Edit Season",
+    "sub_heading": "Please change your Seasons",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code"
+    },
+    "form": {
+        "name": "Season Name",
+        "short_code": "Short Code",
+        "expire_date": "Expire Date",
+        "start_date": "Start Date",
+        "to_month": "To Month",
+        "from_month": "From Month",
+        "to_day": "To Day",
+        "from_day": "From Day"
+    }
+}

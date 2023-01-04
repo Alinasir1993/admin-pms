@@ -1,0 +1,9 @@
+{
+    "heading": "View Service Requests",
+    "list": {
+        "request": "Request",
+        "requested": "Requested",
+        "response_time": "Response Time",
+        "status": "Status"
+    }
+}

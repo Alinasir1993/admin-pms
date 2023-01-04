@@ -1,0 +1,18 @@
+{
+    "heading": "Menu Options",
+    "add": "Add Menu Option",
+    "edit": "Edit Menu Option",
+    "list": {
+        "menu_name": "Menu",
+        "name": "Name",
+        "price": "price"
+    },
+    "form": {
+        "menu": "Menu",
+        "name": "Name",
+        "price": "Price",
+        "description": "Description",
+        "is_choice": "Choice",
+        "is_required": "Required"
+    }
+}

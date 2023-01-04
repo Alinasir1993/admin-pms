@@ -1,0 +1,17 @@
+{
+    "heading": "Room Type Categories",
+    "sub_heading": "Please change your Room Types",
+    "add": "Add Room Type Category",
+    "edit": "Edit Room Type Category",
+    "list": {
+        "image": "Icon",
+        "name": "Name",
+        "short_code": "Short Code",
+        "featured": "Featured"
+    },
+    "form": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "featured": "Is Featured"
+    }
+}

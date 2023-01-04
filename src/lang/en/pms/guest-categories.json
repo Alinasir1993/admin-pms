@@ -1,0 +1,14 @@
+{
+    "heading": "Guest Categories",
+    "sub_heading": "Please change your Guest Categories",
+    "add": "Add Guest Category",
+    "edit": "Edit Guest Category",
+    "list": {
+        "name": "Categories",
+        "image_type": "Image Type"
+    },
+    "form": {
+        "name": "Categories",
+        "image_type": "Image Type"
+    }
+}

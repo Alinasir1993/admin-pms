@@ -1,0 +1,28 @@
+{
+    "heading": "Item Requests",
+    "add" : "Generate Purchase Order",
+    "edit" :"Edit Purchase Order",
+    "list": {
+        "restaurant_item_requests_id": "Request #",
+        "exp_delivery_date": "Expected Delivery Date",
+        "expected_date": "Expected Delivery Date",
+        "notes": "Notes",
+        "item_name": "Item",
+        "qty": "Quantity",
+        "qty_display": "Quantity",
+        "porduct_supplier": "Supplier",
+        "porduct_quantity": "Quantity",
+        "location": "Location",
+        "po_status": "PO Status",
+        "status": "Status"
+    },
+    "form": {
+        "notes": "Notes",
+        "supplier": "Supplier",
+        "expected_date": "Expected Delivery Date",
+        "billing_to": "Billing To",
+        "shipping_to": "Shipping To",
+        "item": "Item",
+        "qty": "Qty"
+    }
+}

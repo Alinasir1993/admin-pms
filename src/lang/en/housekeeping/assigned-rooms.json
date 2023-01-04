@@ -1,0 +1,40 @@
+{
+    "heading": "Assigned Rooms",
+    "need_inspection_room": "Need Inspection Rooms",
+    "in_process": "In Process",
+    "completed_rooms": "Completed Rooms",
+    "notes": "Notes",
+    "out_of_order": "Out Of Order",
+    "list": {
+        "room_no": "Room #",
+        "guest_name": "Guest",
+        "room_type_name": "Room Type",
+        "guest_status": "Guest Status",
+        "date": "Date",
+        "vip_guest": "VIP Guest",
+        "clean_type": "Clean Type",
+        "clean_type_dropdown": "Clean Type",
+        "clean_type_name_display": "Clean Type",
+        "workload": "Workload",
+        "housekeeper": "Housekeeper",
+        "housekeeper_name_display": "Housekeeper",
+        "supervisor_display": "Supervisor",
+        "notes": "Notes",
+        "status": "Status",
+        "is_dnd": "DND",
+        "priority_status": "Rush Clean",
+        "priority_status_display": "Rush Clean",
+        "status_display": "Status",
+        "out_of_order": "Out of Order",
+        "started_at": "Started at",
+        "started_at_display": "Started at"
+    },
+    "form": {
+        "housekeeper": "Housekeeper",
+        "notes": "Notes",
+        "clean_type": "Clean Type",
+        "priority_status": "Rush Clean",
+        "reason" : "Reason",
+        "out_of_order": "Out of Order"
+    }
+}

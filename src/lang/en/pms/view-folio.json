@@ -1,0 +1,18 @@
+{
+    "heading": "View Payments",
+    "list": {
+        "date_time_display": "Date",
+        "display_amount": "Amount",
+        "display_folio_amount": "Amount",
+        "due_amount_display": "Due Amount",
+        "paid_amount_display": "Paid Amount",
+        "folio_no": "Folio #",
+        "room_no": "Room #",
+        "added_by_user_name": "Added By User Name",
+        "reason": "Reason",
+        "description": "Description",
+        "status": "Status",
+        "txn_type": "Transaction Type",
+        "txn_type_display": "Transaction Type"
+    }
+}

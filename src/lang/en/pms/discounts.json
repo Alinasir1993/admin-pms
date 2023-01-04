@@ -1,0 +1,35 @@
+{
+    "heading": "Discounts",
+    "sub_heading": "Please change your Discounts",
+    "add": "Add Discount",
+    "edit": "Edit Discount",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "code": "Code",
+        "type": "Type",
+        "value": "Value",
+        "value_display": "Discount",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Discounts Name",
+        "short_code": "Short Code",
+        "code": "Code",
+        "type": "Type",
+        "value": "Value",
+        "apply_on": "Apply On",
+        "discount_status": "Status",
+        "extracharges": "EXTRACHARGES",
+        "roommate": "ROOMRATE",
+        "percentage": "PERCENTAGE",
+        "flat": "FLAT",
+        "edit_discount": "Edit Discount",
+        "value_display": "Discount",
+        "room_type": "Room Type",
+        "rate_type": "Room Package",
+        "from_date_time": "Applicable From",
+        "to_date_time": "Applicable To",
+        "applicable_for": "Applicable For"
+    }
+}

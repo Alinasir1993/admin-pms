@@ -1,0 +1,11 @@
+{
+    "heading": "Activity Categories",
+    "list": {
+        "name": "Activities",
+        "file_list": "Image",
+        "video_list": "Video"
+    },
+    "form": {
+        "category": "Category Name"
+    }
+}

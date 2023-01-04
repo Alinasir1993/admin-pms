@@ -1,0 +1,16 @@
+{
+    "heading": "Clean Types",
+    "add":"Add Clean Type", 
+    "edit":"Add Workload",
+    "list": {
+        "name": "Name",
+        "status": "Status",
+        "workload": "Workload",
+        "workload_display": "Workload"
+    },
+    "form": {
+        "name": "Name",
+        "status": "Status",
+        "workload": "Workload"
+    }
+}

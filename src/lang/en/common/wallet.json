@@ -1,0 +1,9 @@
+{
+    "heading": "Wallet",
+    "form": {
+        "device_type": "Select Type of Device",
+        "app_type": "Select App",
+        "mobile_no": "Phone Number",
+        "send_app": "Send App"
+    }
+}

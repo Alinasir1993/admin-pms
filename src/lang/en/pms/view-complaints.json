@@ -1,0 +1,11 @@
+{
+    "heading": "View Service Requests",
+    "list": {
+        "type_label": "Request",
+        "created_at": "Requested",
+        "request": "Request",
+        "requested": "Requested",
+        "response_time": "Response Time",
+        "status": "Status"
+    }
+}

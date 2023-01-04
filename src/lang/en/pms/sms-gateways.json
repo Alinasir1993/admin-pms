@@ -1,0 +1,22 @@
+{
+    "heading": "Sms Gateways",
+    "sub_heading": "Please change your Sms Gateways",
+    "add": "Add Sms Gateways",
+    "edit": "Edit Sms Gateways",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "send_from": "Send From",
+        "status": "Status"
+    },
+    "form": {
+        "short_code": "Short Code",
+        "name": "Name",
+        "send_from": "Send From",
+        "api_secret_live": "Live Api Secret",
+        "api_secret_test": "Test Api Secret",
+        "api_key_live": "Live Api Key",
+        "api_key_test": "Test Api Key",
+        "status": "Status"
+    }
+}

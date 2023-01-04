@@ -1,0 +1,18 @@
+{
+    "heading": "Rewards",
+    "add": "Add Reward",
+    "edit": "Edit Reward",
+    "list": {
+        "amount_from": "From Amount",
+        "amount_to": "To Amount",
+        "value_display": "Reward Amount",
+        "type": "Type"
+    },
+    "form": {
+        "amount_from": "From Amount",
+        "amount_to": "To Amount",
+        "type": "Type",
+        "name": "Name",
+        "amount_reward": "Reward Amount"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "heading": "Activity Calendar",
+    "list": {
+        "name": "Activities"
+    },
+    "legend_title" : "Legend",
+    "form": {
+        "hotel_guest": "Hotel Guest",
+        "non_hotel_guest": "Non Hotel Guest",
+        "capacity": "Capacity",
+        "people_allowed": "People Allowed",
+        "booked": "Booked",
+        "total": "Total",
+        "available": "Available"
+    }
+   
+}

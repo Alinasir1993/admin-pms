@@ -1,0 +1,25 @@
+{
+    "heading": "Assign Rooms",
+    "out_of_order": "Out of Order",
+
+    "list": {
+        "room_no": "Room #",
+        "guest_name": "Guest",
+        "room_type_name": "Room Type",
+        "guest_status": "Guest Status",
+        "date": "Date",
+        "vip_guest": "VIP Guest",
+        "clean_type": "Clean Type",
+        "clean_type_dropdown": "Clean Type",
+        "workload": "Workload",
+        "priority_status": "Rush Clean",
+        "out_of_order": "Out of Order",
+        "priority_status_display": "Rush Clean"
+    },
+    "form": {
+        "housekeeper": "Housekeeper",
+        "notes": "notes",
+        "clean_type": "Clean Type",
+        "reason" : "Reason"
+    }
+}

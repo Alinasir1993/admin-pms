@@ -1,0 +1,24 @@
+{
+    "heading": "Devices",
+    "add": "Add Device",
+    "edit": "Edit Device",
+    "list": {
+        "auth_code": "Auth Code",
+        "device_name": "Device Name",
+        "belongs_to": "Belongs To",
+        "department": "Department ",
+        "department_display": "Department ",
+        "mobile_no": "Mobile #",
+        "app_name": "App Name",
+        "device_auth": "Enter Device Name or Auth Code"
+    },
+    "form": {
+        "auth_code": "Auth Code",
+        "device_name": "Device Name",
+        "belongsTo": "Belongs To",
+        "department": "Department ",
+        "status": "Status",
+        "mobile_no": "Mobile #",
+        "app_name": "App Name"
+    }
+}

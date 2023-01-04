@@ -1,0 +1,22 @@
+{
+    "heading": "Routings",
+    "heading_services": "Services",
+    "service_request": "Service Request",
+    "depatment": "Department",
+    "send_to": "Send To",
+    "select_responder": "Select Responder",
+    "sub_heading": "Please change your Service Request Routing",
+    "service_routing": "Service Routing",
+    "service_requests": "Service Requests",
+    "currently": "Currently, you have no forward rules.",
+    "list": {
+        "title": "Title",
+        "status": "Status"
+    },
+    "form": {
+        "description": "Description",
+        "title": "Title",
+        "from": "From",
+        "to": "To"
+    }
+}

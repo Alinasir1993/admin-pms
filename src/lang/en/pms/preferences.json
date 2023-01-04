@@ -1,0 +1,17 @@
+{
+    "heading": "Preferences",
+    "add": "Add Preference",
+    "edit": "Edit Preference",
+    "list": {
+        "name": "Name",
+        "preferences_type_name": "Preferences Type Name",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Name",
+        "pms_preference_type": "Preference Type",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive"
+    }
+}

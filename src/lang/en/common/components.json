@@ -1,0 +1,144 @@
+{
+    "multiple_file_upload": {
+        "max_upload_limit": "Max upload limit",
+        "click_to_upload": "click to upload",
+        "drop_file_here_or": "Drop file here or",
+        "file_size_less_than": "jpg/png files with a size less than 500kb",
+        "allowed": "Allowed"
+    },
+    "single_file_upload_button": {
+        "file_size_less_than": "jpg/png files with a size less than 500kb",
+        "max_upload_limit": "Max upload limit"
+    },
+    "single_file_upload": {
+        "file_size_less_than": "jpg/png files with a size less than 500kb",
+        "max_upload_limit": "Max upload limit",
+        "click_to_upload": "click to upload",
+        "drop_file_here_or": "Drop file here or"
+    },
+    "phone_no": {
+        "phone_no": "Phone #",
+        "ext": "Ext"
+    },
+    "mobile_no": {
+        "mobile_no": "Mobile #"
+    },
+    "nationality": {
+        "nationality": "Nationality",
+        "select_nationality":"Select Nationality"
+    },
+    "country": {
+        "country": "Country"
+    },
+    "dialog": {
+        "open_message_box": "Click to open Message Box",
+        "document": "Document(s)",
+        "upload_file": "Upload File"
+    },
+    "payment_card": {
+        "card_no": "Card Number",
+        "bank_name": "Bank Name:",
+        "card_name": "Card Name:",
+        "card_expiration": "Card Expiration",
+        "card_cvv": "Card CVV",
+        "card_zipcode": "Payment Zip Code",
+        "type": "Type",
+        "has": "#### #### #### ####",
+        "expiry": "MM/YYYY"
+    },
+    "datepicker":{
+        "from": "From",
+        "to": "To"
+    },
+    "payment":{
+        "cash": "Cash",
+        "card": "Card",
+        "comp": "COMP",
+        "bill_to_room": "Bill to Room",
+        "bank": "Bank",
+        "cheque": "Cheque",
+        "cash_collect_customer": "Please collect cash from the customer",
+        "cashier_location": "Select cashier location",
+        "counter_first": "Please select counter first"
+    },
+    "table":{
+        "no_content": "No content!",
+        "sms": "SMS Message",
+        "bill_to_room": "Bill to Room",
+        "bank": "Bank",
+        "cheque": "Cheque",
+        "cash_collect_customer": "Please collect cash from the customer",
+        "cashier_location": "Please select a cashier location",
+        "counter_first": "Please select counter first",
+        "name": "Name",
+        "email": "Email",
+        "mobile": "Mobile",
+        "device_type": "Device Type",
+        "computer_ios": "Computer (Mac OS)",
+        "computer_window": "Computer (Windows)",
+        "mobile_ios": "Mobile (iOS)",
+        "mobile_window": "Mobile (Android)",
+        "app_version": "App Version",
+        "location": "Location",
+        "ip": "IP Address",
+        "item": "Item",
+        "resend": "Resend",
+        "broadcast": "Broadcast",
+        "scheduled": "Scheduled",
+        "workload": "Workload",
+        "send_app": "Send App",
+        "discounts": "Discounts",
+        "room_packages": "Room Packages",
+        "rate_packages": "Rate Packages",
+        "remove_from_block_list": "Remove From Blacklist",
+        "paper_menus": "Paper Menus",
+        "setup": "Setup",
+        "run_migration": "Run Migration",
+        "run_seed": "Run Seed",
+        "profile": "Profile",
+        "message": "Message",
+        "send_sms": "Send SMS",
+        "logout": "Logout",
+        "service_requests": "Service Requests",
+        "transactions": "Transactions",
+        "payments": "Payments",
+        "pay_now": "Pay Now",
+        "make_payment": "Make Payment",
+        "assign": "Assign",
+        "complete": "Complete",
+        "resolve": "Resolve",
+        "mark_as_dirty": "Mark As Dirty",
+        "unarchive": "Unarchive",
+        "donate": "Donate",
+        "item_categories": "Item Categories",
+        "accept": "Accept",
+        "deny": "Deny",
+        "items": "Items",
+        "taxes": "Taxes",
+        "menu_utensils": "Menu Utensils",
+        "menu_options": "Menu Options",
+        "menu_condiments": "Menu Condiments",
+        "menu_addOns": "Menu AddOns",
+        "claim": "Claim",
+        "back_to_order": "Back to Order",
+        "delivered": "Delivered",
+        "make_active": "Make Active",
+        "make_inactive": "Make Inactive",
+        "activity": "Activity",
+        "cashier_locations": "Cashier Locations",
+        "request_item": "Request Item",
+        "request_purchase_order": "Request Purchase Order",
+        "generate_purchase_order": "Generate Purchase Order",
+        "generate_grn": "Generate GRN",
+        "quality_check": "Quality Check",
+        "add_to_stock": " Add to Stock",
+        "inventory": "Inventory",
+        "place_order": "Place Order",
+        "withdrawal": "Withdrawal",
+        "wallet": "Wallet",
+        "viewComp": "COMP Info",
+        "makeComp": "Comp",
+        "folio": "Folio"
+    }
+    
+}

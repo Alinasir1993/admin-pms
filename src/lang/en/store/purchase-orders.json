@@ -1,0 +1,31 @@
+{
+    "heading": "Purchase Orders",
+    "list": {
+        "po_no": "PO #",
+        "supplier": "Supplier",
+        "order_placed": "Order Date",
+        "billing_to": "Billing To",
+        "shipping_to": "Shipping To",
+        "total_products": "Total Products",
+        "status": "Status"
+    },
+    "form": {
+        "supplier": "Supplier",
+        "order_placed": "Order Date",
+        "billing_to": "Billing To",
+        "shipping_to": "Shipping To",
+        "total_products": "Total Products",
+        "notes": "Notes",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "expected_delivery_date": "Expected Delivery Date",
+        "category": "Category",
+        "name": "Name",
+        "qty": "Qty",
+        "item": "Item",
+        "generate_purchase_order": "Generate Purchase Order",
+        "edit_purchase_order": "Edit Purchase Order",
+        "purchase_order_details": "Purchase Order Details"
+    }
+}

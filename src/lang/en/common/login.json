@@ -1,0 +1,21 @@
+{
+    "heading": "Login",
+    "sub_heading": "By clicking \"Login\" you confirm that you accept the ",
+    "terms_of_service": "Terms of Service",
+    "welcome": "Welcome to",
+    "subdomain_error": "Please use your property link to access the Zurra login page.",
+    "list": {
+
+    },
+    "form": {
+        "select_admin": "Select Admin",
+        "language": "Language",
+        "password": "Password",
+        "forgot_password": "Forgot Password?",
+        "username": "Username",
+        "select_staff": "Username",
+        "pos_location": "Cashier Location",
+        "pos_location_id": "Cashier Location",
+        "select_one": "Select One"
+    }
+}

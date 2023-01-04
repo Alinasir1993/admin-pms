@@ -1,0 +1,34 @@
+{
+    "heading": "Suppliers",
+    "add": "Add Supplier",
+    "edit": "Edit Supplier",
+    "list": {
+        "name": "Name",
+        "company": "Company",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "country": "Country",
+        "pan": "PAN #",
+        "gst": "GST #",
+        "license": "License #",
+        "status": "Status",
+        "due_amount_display": "Due Amount",
+        "last_payment_amount_display": "Last Paid Amount",
+        "last_payment_date_time_display": "Last Paid At"
+    },
+    "form": {
+        "name": "Name",
+        "company": "Company",
+        "address": "Address",
+        "city": "City",
+        "state": "State",
+        "country": "Country",
+        "pan": "PAN #",
+        "gst": "GST #",
+        "license": "License #",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive"
+    }
+}

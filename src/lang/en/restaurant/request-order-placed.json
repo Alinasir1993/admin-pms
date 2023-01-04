@@ -1,0 +1,42 @@
+{
+    "heading": "Item Requests",
+    "good_return":"Goods Return",
+    "add" :  "Add Request",
+    "edit" : "Edit Request",
+    "order_details" : "Order Details",
+    "list": {
+        "id": "Order #",
+        "order_no": "Order #",
+        "porduct_name": "Item",
+        "supplier_name_display": "Supplier",
+        "expected_delivery_date_time": "Expected Date",
+        "order_placed_at_display": "Order Placed Date",
+        "status": "Status",
+        "return_date": "Return Date"
+    },
+    "form": {
+        "exp_delivery_date": "Expected Delivery Date",
+        "name": "Name",
+        "unit": "Unit",
+        "min_stock": "Min Stock",
+        "max_stock": "Max Stock",
+        "re_order_level": "Re-order Level",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "item": "Item",
+        "rejected_qty": "Rejected Qty",
+        "returned_qty": "Returned Qty",
+        "rate": "Rate",
+        "amount": "Amount",
+        "notes": "Notes",
+        "total_amount": "Total Amount",
+        "quality_check":"Quality Check",
+        "product_group":"Product Group",
+        "product_name":"Product Name",
+        "quantity":"Quantity",
+        "remarks":"Remarks"
+
+    }
+}

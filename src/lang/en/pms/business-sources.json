@@ -1,0 +1,18 @@
+{
+    "heading": "Business Sources",
+    "sub_heading": "Please change your Business Sources",
+    "add": "Add Business Sources",
+    "edit": "Edit Business Sources",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "registration_number": "Registration Number",
+        "market_code": "Market Code"
+    },
+    "form": {
+        "short_code": "Short Code",
+        "name": "Sources Name",
+        "registration_number": "Registration Number",
+        "market_code": "Market Code"
+    }
+}

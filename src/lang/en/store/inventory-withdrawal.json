@@ -1,0 +1,24 @@
+{
+    "heading": "Item Withdrawals",
+    "list": {
+        "item_name": "Item",
+        "date_time_display": "Date Time",
+        "cancel_date_time_display": "Cancel Date Time",
+        "authorised_by_display": "Authorised by",
+        "qty": "Quantity",
+        "qty_display": "Quantity",
+        "status_display": "Status"
+    },
+    "form": {
+        "add_withdrawal": "Add Item Withdrawal",
+        "edit_withdrawal": "Edit Item Withdrawal",
+        "item": "Item",
+        "name": "Name",
+        "original_qty": "Quantity Stock",
+        "after_qty": "Quantity After Withdrawal",
+        "quantity": "Withdrawal Quantity",
+        "withdrawal_details": "Withdrawal Details"
+        
+    }
+}
+

@@ -1,0 +1,17 @@
+{
+    "heading": "Auto Replies",
+    "add": "Add Auto Replies",
+    "edit": "Edit Auto Replies",
+    "list": {
+        "key": "Key",
+        "title": "Title",
+        "message": "Message"
+    },
+    "form": {
+        "key": "Key",
+        "title": "Title",
+        "add_sms_template": "Add Automated Message",
+        "edit_sms_template": "Edit Automated Message",
+        "message": "Message"
+    }
+}

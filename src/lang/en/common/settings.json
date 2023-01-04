@@ -1,0 +1,17 @@
+{
+    "heading_one": "General",
+    "heading_two": "Change Password",
+    "form": {
+        "avatar": "Select Avatar",
+        "username": "Username",
+        "salutation": "Salutation",
+        "name": "Name",
+        "gender": "Gender",
+        "male": "Male",
+        "female": "Female",
+        "email": "Email",
+        "old_password": "Old Password",
+        "new_password": "New Password",
+        "retype_password": "Retype New Password"
+    }
+}

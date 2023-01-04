@@ -1,0 +1,30 @@
+{
+    "heading": "Automated Email",
+    "list": {
+        "key": "Key",
+        "title": "Title",
+        "title_display": "Title",
+        "message": "Message",
+        "subject": "Subject",
+        "auto_send": "Auto Send Email",
+        "auto_send_display": "Auto Send Email",
+        "no_of_days": "# Days",
+        "days": "Days",
+        "date": "Date",
+        "time": "Time"
+
+    },
+    "form": {
+        "key": "Key",
+        "title": "Title",
+        "add_sms_template": "Add Automated Email",
+        "edit_sms_template": "Edit Automated Email",
+        "message": "Message",
+        "subject": "Subject",
+        "no_of_days": "# Days",
+        "auto_send": "Auto Send Email",
+        "days": "Days",
+        "date": "Date",
+        "time": "Time"
+    }
+}

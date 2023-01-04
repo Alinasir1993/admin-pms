@@ -1,0 +1,24 @@
+{
+    "heading": "Sms",
+    "list": {
+        "date": "Date",
+        "messaged_at": "Date",
+        "rooms": "Room #",
+        "sender": "Sender",
+        "from_user_name": "Sender",
+        "receiver": "Receiver",
+        "to_user_name": "Receiver",
+        "message": "Message",
+        "status_display": "Status",
+        "status": "Status"
+    },
+    "form": {
+        "key": "Key",
+        "title": "Title",
+        "add_sms_template": "Add Automated Message",
+        "edit_sms_template": "Edit Automated Message",
+        "message": "Message",
+        "staff_message": "Staff Messages",
+        "enter_staff": "Enter Staff Name"
+    }
+}

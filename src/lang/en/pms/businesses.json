@@ -1,0 +1,43 @@
+{
+    "heading": "Businesses",
+    "add": "Add Businesses",
+    "edit": "Edit Businesses",
+    "sub_heading": "Please change your Businesses",
+    "list": {
+        "business_name": "Business Name",
+        "business_slug": "Business Slug",
+        "name": "Name",
+        "email": "Email",
+        "setup_status": "Setup Status"
+    },
+    "form": {
+        "business_name": "Business Name",
+        "business_slug": "Business Slug (Will be used in Firebase)",
+        "title": "Designation",
+        "username": "Username",
+        "previous_logo": "Previous Logo",
+        "logo": "Logo",
+        "name": "User's Name",
+        "password": "User Password",
+        "email": "Email",
+        "status": "Status",
+        "salutation": "Salutation",
+        "address": "Address",
+        "address2": "Address2",
+        "radius": "Radius",
+        "on": "NO",
+        "off": "OFF",
+        "db_name": "Database Name",
+        "db_username": "Database Username",
+        "db_password": "Database Password",
+        "migration_command": "Migation Command",
+        "seeder_class_name": "Seeder Class Name",
+        "example_migration": "e.g. php artisan migrate:refresh --path=/Modules/Pms/Database/Migrations/table.php",
+        "run_migration" : "Run Migration",
+        "run_seed" : "Run Seed",
+        "countries_table_seeder" : "e.g. CountriesTableSeeder",
+        "business_setup" : "Business Setup",
+        "step1" : "Step 1",
+        "step2" : "Step 2"
+    }
+}

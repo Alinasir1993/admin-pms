@@ -1,0 +1,13 @@
+{
+    "heading": "Blacklisted Phones",
+    "add_blacklist": "Add Blacklist Phone",
+    "edit_blacklist": "Edit Blacklist Phone",
+    "list": {
+        "phone_no": "Phone #",
+        "guest_name": "Guest Name",
+        "reason": "Reason"
+    },
+    "form": {
+        "enter_phone": "Enter Phone # OR Guest Name"
+    }
+}

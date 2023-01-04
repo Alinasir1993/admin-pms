@@ -1,0 +1,17 @@
+{
+    "heading": "Item Categories",
+    "list": {
+        "file_list": "Image",
+        "name": "Name",
+        "short_code": "Short Code",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "status": "Status",
+        "add_category": "Add Category",
+        "edit_category": "Edit Category"
+       
+    }
+}

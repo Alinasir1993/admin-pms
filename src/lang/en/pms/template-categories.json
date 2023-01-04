@@ -1,0 +1,12 @@
+{
+    "heading": "Email Template Categories",
+    "add": "Add Template Categories",
+    "edit": "Edit Template Categories",
+    "sub_heading": "Please change your Template Categories",
+    "list": {
+        "name": "Name"
+    },
+    "form": {
+        "name": "Category Name"
+    }
+}

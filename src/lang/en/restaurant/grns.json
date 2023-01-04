@@ -1,0 +1,40 @@
+{
+    "heading": "Goods Received Notes",
+    "generate" : "Generate Goods Receive",
+    "good_re_details" : "Goods Receive Details",
+    "list": {
+        "id": "GRN #",
+        "order_no": "GRN #",
+        "supplier": "Supplier",
+        "entry_date_time_display": "Added Date",
+        "order_received_at_display": "Received Date",
+        "total_products": "Total Products",
+        "total_amount_display": "Total Amount",
+        "item_amount_display": "Item Amount",
+        "tax_amount": "Tax Amount",
+        "status": "Status",
+        "enter_grn": "Enter GRN #"
+    },
+    "form": {
+        "supplier": "Supplier",
+        "order_placed": "Order Date",
+        "billing_to": "Billing To",
+        "shipping_to": "Shipping To",
+        "total_products": "Total Products",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "added_date": "Added Date",
+        "enter_order": "Enter Order #",
+        "item": "Item",
+        "qty": "Qty",
+        "received": "Received",
+        "rate": "Rate",
+        "amount": "Amount",
+        "good_receive": "Goods receive #",
+        "entry_date": "Entry Date",
+        "good_received": "Goods Received"
+        
+    }
+}

@@ -1,0 +1,23 @@
+{
+    "heading": "Taxes",
+    "sub_heading": "Please change your Taxes",
+    "list": {
+        "name": "Title",
+        "type": "Type",
+        "can_exempt_show": "Can Exempt",
+        "after_item_discount_show": "After Discount",
+        "tax_rate": "Tax Rate",
+        "tax_rate_display": "Tax Rate"
+    },
+    "form": {
+        "name": "Title",
+        "type": "Type",
+        "can_exempt": "Can Exempt",
+        "after_item_discount": "Apply After Item Discount",
+        "tax_rate": "Tax Rate",
+        "tax_rate_display": "Tax Rate",
+        "add_tax": "Add Tax",
+        "edit_tax": "Edit Tax"
+
+    }
+}

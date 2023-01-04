@@ -1,0 +1,13 @@
+{
+    "heading": "Condiments",
+    "add": "Add Menu Condiment",
+    "edit": "Add Menu Condiment",
+    "list": {
+        "menu_name": "Menu",
+        "name": "Name"
+    },
+    "form": {
+        "menu": "Menu",
+        "name": "Name"
+    }
+}

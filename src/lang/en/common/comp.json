@@ -1,0 +1,12 @@
+{
+    "heading": "COMP Reason",
+    "form": {
+        "reason": "Reason"
+    },
+    "view": {
+        "heading": "COMP Info",
+        "created_at": "Comped At",
+        "comped_by_user_name": "Comped By",
+        "comp_reason": "COMP Details"
+    }
+}

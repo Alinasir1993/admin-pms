@@ -1,0 +1,18 @@
+{
+    "heading": "Paper Menus",
+    "add":"Add Paper Menu",
+    "edit":"Edit Paper Menu",
+    "list": {
+        "file_list": "Images",
+        "name": "Name",
+        "description": "Description",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Name",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive"
+    }
+}

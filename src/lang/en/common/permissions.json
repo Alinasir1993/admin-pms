@@ -1,0 +1,16 @@
+{
+    "heading": "Admin Permissions",
+    "list": {
+        "name": "Name",
+        "has_permission_modules": "Permissions",
+        "description": "Description",
+        "is_allow_admin": "Allow Admin",
+        "is_allow_app": "Allow App"
+    },
+    "form": {
+        "name": "Name",
+        "description": "Description",
+        "is_allow_admin": "Allow Admin",
+        "is_allow_app": "Allow App"
+    }
+}

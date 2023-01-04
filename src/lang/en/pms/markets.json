@@ -1,0 +1,14 @@
+{
+    "heading": "Markets",
+    "add": "Add Market",
+    "edit": "Edit Market",
+    "sub_heading": "Please change your Markets",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code"
+    },
+    "form": {
+        "name": "Market Name",
+        "short_code": "Short Code"
+    }
+}

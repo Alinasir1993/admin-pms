@@ -1,0 +1,21 @@
+{
+    "room_item_heading": "Room items",
+    "mini_bar_item_heading": "Minibar items",
+    "list": {
+        "room_no_display": "Room #",
+        "date_display": "Date",
+        "guest_name_display": "Guest",
+        "missing_item": "Missing Item",
+        "minibar_item_total_qty": "Quantity",
+        "missing_item_display": "Missing Item",
+        "total_price_display": "Total Price"
+        
+    },
+    "form": {
+        "housekeeper": "Housekeeper",
+        "notes": "notes",
+        "clean_type": "Clean Type",
+        "room_item": "Room Item",
+        "minibar_item": "Minibar Item"
+    }
+}

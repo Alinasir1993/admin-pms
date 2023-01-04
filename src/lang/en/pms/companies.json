@@ -1,0 +1,14 @@
+{
+    "heading": "Companies",
+    "sub_heading": "Please change your Companies",
+    "add": "Add Company",
+    "edit": "Edit Company",
+    "list": {
+        "name": "Name",
+        "short_key": "Short Key"
+    },
+    "form": {
+        "name": "Company Name",
+        "short_key": "Short Key"
+    }
+}

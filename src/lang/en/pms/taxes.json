@@ -1,0 +1,34 @@
+{
+    "heading": "Tax Charges",
+    "add": "Add Tax",
+    "edit": "Edit Tax",
+    "sub_heading": "Please change your Tax Charges",
+    "list": {
+        "name": "Title",
+        "short_name": "Short Name",
+        "applies_from": "Applies From",
+        "exempt_after": "Exempt After",
+        "value": "Value",
+        "apply_tax": "Apply Tax",
+        "type": "Type",
+        "can_exempt_show": "Can Exempt",
+        "after_item_discount_show": "After Discount",
+        "tax_rate": "Tax Rate",
+        "tax_rate_display":"Tax Rate"
+    },
+    "form": {
+        "name": "Title",
+        "short_name": "Short Name",
+        "days": "Days",
+        "value": "Value",
+        "applies_from": "Applies From",
+        "exempt_after": "Exempt After",
+        "apply_tax": "Apply Tax",
+        "apply_tax_on_rack_rate": "Apply Tax on Rack Rate Note",
+        "tax_rate_display":"Tax Rate",
+        "type": "Type",
+        "can_exempt": "Can Exempt",
+        "after_item_discount": "Apply After Item Discount",
+        "tax_rate": "Tax Rate"
+    }
+}

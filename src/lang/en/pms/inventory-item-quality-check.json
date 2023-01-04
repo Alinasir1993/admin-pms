@@ -1,0 +1,39 @@
+{
+    "heading": "Quality Check",
+    "add_to_stock": "Add to Stock",
+    "good_return": "Good Return",
+    "list": {
+        "id": "GRN #",
+        "order_no": "GRN #",
+        "supplier": "Supplier",
+        "entry_date_time_display": "Added Date",
+        "quality_checked_at_display": "Quality Checked Date",
+        "total_products": "Total Products",
+        "total_amount_display": "Total Amount",
+        "status": "Status",
+        "item" : "Item",
+        "received" :"Received",
+        "accepted":"Accepted",
+        "rejected":"Rejected",
+        "rate":"Rate",
+        "notes":"Notes",
+        "amount":"Amount",
+        "transfer":"Transfer",
+        "return":"Return Qty",
+        "return_date":"Return Date"
+    },
+    "form": {
+        "supplier": "Supplier",
+        "order_placed": "Order Date",
+        "billing_to": "Billing To",
+        "shipping_to": "Shipping To",
+        "total_products": "Total Products",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "enter_goods": "Enter Goods Receive #",
+        "order": "Order #",
+        "enter_grn": "Enter GRN #"
+    }
+}

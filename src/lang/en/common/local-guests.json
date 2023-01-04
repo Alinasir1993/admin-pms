@@ -1,0 +1,48 @@
+{
+    "heading": "Visitors",
+    "marketing_heading": "Guests",
+    "broadcast": "Broadcast",
+    "send_app": "Send App",
+    "send_sms": "Send Sms",
+    "edit_guest": "Edit Guest",
+    "import_local": "Import Visitors",
+
+    "list": {
+        "name": "Name",
+        "mobile_no": "Mobile #",
+        "email": "Email",
+        "room_no": "Room #",
+        "guest_type_display": "Guest Type",
+        "all_guests": "All Guests",
+        "in_house_guests": "In House Guests",
+        "local_guests": "Visitors",
+        "has_mobile": "Has Mobile #",
+        "has_email": "Has Email"
+    },
+    "form": {
+        "name": "Name",
+        "mobile_no": "Mobile #",
+        "email": "Email",
+        "sms": "SMS",
+        "sample": "Sample XLS/XLSX",
+        "download_sample": "Download Sample XLS/XLSX",
+        "csv_sample": "Sample CSV",
+        "download_sample_csv": "Download Sample CSV",
+        "broadcast": "Broadcast",
+        "import_local": "Import Visitors",
+        "select_push": "Select Special",
+        "sign_up": "Sign Up",
+        "zip_code": "Zip Code",
+        "guest_messages": "Guest Messages",
+        "enter_guest": "Enter Guest Name or Room #",
+        "guest": "Guest",
+        "staff": "Staff",
+        "phone": "Phone",
+        "group": "group",
+        "checked_in": "Checked In",
+        "expected_today": "Expected Today",
+        "checked_out": "Checking Out Today",
+        "online": "Online"
+        
+    }
+}

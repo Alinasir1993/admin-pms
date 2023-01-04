@@ -1,0 +1,16 @@
+{
+    "heading": "Acceso",
+    "sub_heading": "Inicie sesión en su cuenta y comience la aventura.",
+    "welcome": "Bienvenido a",
+    "subdomain_error": "Utilice el enlace de su propiedad para acceder a la página de inicio de sesión de Zurra.",
+    "list": {
+        
+    },
+    "form": {
+        "select_admin": "Seleccionar Administrador",
+        "language": "Idioma",
+        "password": "Pontraseña",
+        "forgot_password": "Has olvidado tu contraseña?",
+        "username": "Nombre de usuario"
+    }
+}

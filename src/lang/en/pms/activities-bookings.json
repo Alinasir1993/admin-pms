@@ -1,0 +1,25 @@
+{
+    "heading": "Activity Bookings",
+    "add": "Details",
+    "edit": "Details",
+    "list": {
+        "name": "Activities"
+    },
+    "form": {
+        "activity": "Activity",
+        "upload_video": "Upload Acitivity Video",
+        "people": "People",
+        "change_date": "Change Date",
+        "available": "Available",
+        "booked": "Booked",
+        "total": "Total",
+        "price" :"Price",
+        "hotel_guest": "Hotel Guest",
+        "non_hotel_guest": "Non Hotel Guest",
+        "capacity": "Capacity",
+        "people_allowed": "People Allowed",
+        "of_people" : "of People",
+        "notes" : "Notes"
+    }
+   
+}

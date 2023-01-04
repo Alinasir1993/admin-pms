@@ -1,0 +1,12 @@
+{
+    "heading": "Transportation Modes",
+    "add": "Add Transportation Mode",
+    "edit": "Edit Transportation Mode",
+    "sub_heading": "Please change your Transportation Modes",
+    "list": {
+        "name": "Name"
+    },
+    "form": {
+        "name": "Mode Name"
+    }
+}

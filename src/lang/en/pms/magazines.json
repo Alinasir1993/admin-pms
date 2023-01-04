@@ -1,0 +1,17 @@
+{
+    "heading": "Magazines",
+    "sub_heading": "Please change your Magazines",
+    "list": {
+        "title": "Title",
+        "status": "Status",
+        "file_list": "File List"
+    },
+    "form": {
+        "description": "Description",
+        "status": "Status",
+        "title": "Title",
+        "edit_magazine": "Edit Magazine",
+        "add_magazine": "Add Magazine"
+    },
+    "magazine_title" : "Magazine Details"
+}

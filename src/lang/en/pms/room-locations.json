@@ -1,0 +1,18 @@
+{
+    "heading": "Room Locations",
+    "list": {
+        "name": "Name",
+        "short_key": "Short Key",
+        "type": "Type",
+        "status": "Status"
+       
+    },
+    "form": {
+        "name": "Name",
+        "short_key": "Short Key",
+        "type": "Type",
+        "add_room_locations": "Add Room Location",
+        "edit_room_locations": "Edit Room Location",
+        "status": "Status"
+    }
+}

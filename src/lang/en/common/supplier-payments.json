@@ -1,0 +1,22 @@
+{
+    "heading": "Supplier Payments",
+    "list": {
+    },
+    "form": {
+        "add_supplier_payment": "Add Supplier Payment",
+        "edit_supplier_payment": "Edit Supplier Payment",
+        "cash": "Cash",
+        "bank_transafer": "Bank Transafer",
+        "cheque_check": "Cheque/Check No",
+        "payment_mode" :"Payment Mode",
+        "amount" :"Amount",
+        "recipient" :"Recipient",
+        "back_name" :"Bank Name",
+        "bank_account" :"Bank Account #",
+        "ifsc" :"IFSC",
+        "check_date" :"Cheque/Check Date",
+        "payment_date_time" :"Payment Date Time",
+        "notes" :"Notes"
+    
+    }
+}

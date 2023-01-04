@@ -1,0 +1,13 @@
+{
+    "heading": "Utensils",
+    "add": "Add Menu Utensils",
+    "edit": "Edit Menu Utensils",
+    "list": {
+        "menu_name": "Menu",
+        "name": "Name"
+    },
+    "form": {
+        "menu": "Menu",
+        "name": "Name"
+    }
+}

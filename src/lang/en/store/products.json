@@ -1,0 +1,25 @@
+{
+    "heading": "Products",
+    "list": {
+        "name": "Name",
+        "unit": "Unit",
+        "min_stock": "Min Stock",
+        "max_stock": "Max Stock",
+        "re_order_level": "Re-order Level",
+        "description": "Description",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Name",
+        "unit": "Unit",
+        "min_stock": "Min Stock",
+        "max_stock": "Max Stock",
+        "re_order_level": "Re-order Level",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "add_product": "Add Product",
+        "edit_product": "Edit Product"
+    }
+}

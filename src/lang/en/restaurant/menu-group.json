@@ -1,0 +1,20 @@
+{
+    "heading": "Menus",
+    "add": "Add Menu",
+    "edit": "Edit Menu",
+    "list": {
+        "name": "Menu Name",
+        "active_days": "Active Days",
+        "time_available_display": "Available Time"
+    },
+    "form": {
+        "name": "Menu Name",
+        "sun": "sun",
+        "mon": "Mon",
+        "tue": "Tue",
+        "wed": "Wed",
+        "thu": "Thu",
+        "fri": "Fri",
+        "sat": "Sat"
+    }
+}

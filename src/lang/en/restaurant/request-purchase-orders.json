@@ -1,0 +1,33 @@
+{
+    "heading": "Item Requests",
+    "add": "Add Request Order",
+    "edit": "Edit Request Order",
+    "purchase_order_details"  : "Purchase Order Details", 
+    "list": {
+        "request_no": "PO #",
+        "id": "PO #",
+        "porduct_name": "Item",
+        "supplier_name_display": "Supplier",
+        "expected_delivery_date_time_display": "Expected Date",
+        "status": "Status",
+        "item_quantity" : "Item Quantity",
+        "remarks" : "Remarks"
+    },
+    "form": {
+        "exp_delivery_date": "Expected Delivery Date",
+        "name": "Name",
+        "unit": "Unit",
+        "min_stock": "Min Stock",
+        "max_stock": "Max Stock",
+        "re_order_level": "Re-order Level",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "item": "Item",
+        "qty": "Qty",
+        "notes": "Notes",
+        "expected_delivery_date": "Expected Delivery Date"
+        
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "heading": "Room Packages",
+    "add": "Add Room Package",
+    "edit": "Edit Room Package",
+    "sub_heading": "Please change your Room Packages",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "description": "Description"
+    },
+    "form": {
+        "short_code": "Short Code",
+        "name": "Room Package",
+        "description": "Description",
+        "name_of_rate_type": "Name of Room Package",
+        "extra_child": "Extra Child",
+        "extra_adult": "Extra Adult",
+        "room_type": "Room Types",
+        "package_name": "Package Name",
+        "rack_rate": "Rack Rate",
+        "max_adult": "Max. Adult",
+        "max_child": "Max. Child",
+        "highlights": "Highlights",
+        "inclusions": "Inclusions",
+        "free_cancellation_before_days": "Free Cancellation Before Days",
+        "add_new_discount": "Add New Discount",
+        "add_package_name": "Add New Package Name",
+        "add_package_rate": "Add New Package Rate",
+        "discount": "Discount",
+        "tagline": "Tagline",
+        "cancellation_available": "Cancellation available ?",
+        "of_day": "# of Days"
+    }
+}

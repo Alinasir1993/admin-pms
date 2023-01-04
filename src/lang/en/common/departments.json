@@ -1,0 +1,19 @@
+{
+    "heading": "Departments",
+    "add": "Add Department",
+    "edit": "Edit Department",
+    "sub_heading": "Please change your Departments",
+    "list": {
+        "name": "Name",
+        "file_list": "Images",
+        "slug": "Short Code",
+        "status": "Status"
+    },
+    "form": {
+        "slug": "Short Code",
+        "name": "Name",
+        "is_message": "Is Message Department ?",
+        "is_service": "Is Service Department ?",
+        "status": "Status"
+    }
+}

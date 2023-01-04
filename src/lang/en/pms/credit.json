@@ -1,0 +1,22 @@
+{
+    "heading": "Credit",
+    "sub_heading": "Please change your notes",
+    "list": {
+        "txn_details": "Credit Details",
+        "txn_amount_display": "Amount",
+        "txn_status_display": "Status",
+        "txn_type_display": "Txn Type",
+        "name": "Guest Name",
+        "created_at_display": "Date & time"
+    },
+    "form": { 
+        "txn_details": "Credit Details",
+        "txn_amount": "Amount",
+        "txn_status_display": "Status",
+        "txn_type_display": "Txn Type",
+        "name": "Guest Name",
+        "created_at_display": "Date & time",
+        "enter_notes": "Enter notes"
+        
+    }
+}

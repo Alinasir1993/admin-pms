@@ -1,0 +1,39 @@
+{
+    "heading": "Ingredients",
+    "add": "Add Ingredient",
+    "edit": "Edit Ingredient",
+    "add_req"    : "Add Request",
+    "edit_req"    :"Edit Request",
+    "list": {
+        "file_list": "Image",
+        "name": "Name",
+        "unit_name": "Unit",
+        "price_display": "Price",
+        "quantity": "Quantity",
+        "qty_display": "Quantity",
+        "storage_area_name": "Storage Area",
+
+        "reorder_level": "Re-order Level",
+        "description": "Description",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Name",
+        "unit": "Unit",
+        "min_stock": "Min Stock",
+        "max_stock": "Max Stock",
+        "reorder_level": "Re-order Level",
+        "category_id": "Item Categories",
+        "short_code": "Short Code",
+        "price": "Price",
+        "file_list": "Image",
+        "storage_area_id": "Storage Area",
+        "quantity": "Quantity",
+        "description": "Description",
+        "tax": "Tax",
+        "status": "Status",
+        "expected_delivery": "Expected Delivery Date",
+        "notes": "Notes"
+       
+    }
+}

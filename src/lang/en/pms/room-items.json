@@ -1,0 +1,15 @@
+{
+    "heading": "Room Items",
+    "list": {
+        "name": "Name",
+        "price": "Price",
+        "description": "Description"
+    },
+    "form": {
+        "name": "Name",
+        "add_room_item": "Add Room Item",
+        "edit_room_item": "Edit Room Item",
+        "price": "Price",
+        "description": "Description"
+    }
+}

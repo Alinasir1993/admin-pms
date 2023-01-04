@@ -1,0 +1,36 @@
+{
+    "heading": "Other Charges Or Services",
+    "sub_heading": "Please change your Extra Charges",
+    "add": "Add Extra Charges",
+    "edit": "Edit Extra Charges",
+    "list": {
+        "name": "Title",
+        "short_code": "Short Code",
+        "type": "Type",
+        "value": "Value",
+        "rate": "Rate",
+        "publish_on_web": "Publish On Web",
+        "always_charge": "Always Charge",
+        "fixed_price": "Fixed Price",
+        "sort_key": "Sort Key",
+        "voucher_no": "Voucher #",
+        "rate_inclusive_tax": "Rate Inclusive Tax",
+        "extra_charge_display": "Extra Charge"
+    },
+    "form": {
+        "name": "Title",
+        "short_code": "Short Code",
+        "type": "Type",
+        "value": "Value",
+        "rate": "Rate",
+        "publish_on_web": "Publish On Web",
+        "always_charge": "Always Charge",
+        "fixed_price": "Fixed Price",
+        "sort_key": "Sort Key",
+        "voucher_no": "Voucher #",
+        "front_desk_short_key": "[Front Desk] Short Key",
+        "tax": "Tax",
+        "rate_inclusive_tax": "Rate Inclusive Tax",
+        "extra_charge_display": "Extra Charge"
+    }
+}

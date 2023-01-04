@@ -1,0 +1,39 @@
+{
+    "heading": "Broadcasts",
+    "headingBroadcastDetails": "Broadcast Details",
+    "sub_heading": "Please change your specials",
+    "list": {
+        "title": "Ad Title",
+        "broadcasted_by_name": "Sent By",
+        "broadcast_time": "Broadcast Time",
+        "guests": "# Sent",
+        "sms": "# SMS",
+        "email": "# Emails",
+        "push": "# Push",
+        "sms_guest_count": "# Sent",
+        "email_guest_count": "# Sent",
+        "push_guest_count": "# Send",
+        "viewed_sms": "# Viewed",
+        "viewed_email": "# Viewed",
+        "viewed_push": "# Viewed",
+        "delivered_sms": "# Delivered",
+        "delivered_email": "# Delivered",
+        "delivered_push": "# Delivered",
+        "failed_sms": "# Failed",
+        "failed_email": "# Failed",
+        "failed_push": "# Failed",
+        "all_broadcasts": "All Broadcasts",
+        "sms_sent": "SMS Sent",
+        "email_sent": "Email Sent",
+        "push_sent": "Push Sent",
+        "guest_type": "Guest Type",
+        "enter_ad_title": "Enter Ad Title"
+    },
+    "listDetails": {
+        "guest_name": "Guest Name",
+        "mobile": "Mobile",
+        "email": "Email",
+        "sms_status": "SMS Status",
+        "email_status": "Email Status"
+    }
+}

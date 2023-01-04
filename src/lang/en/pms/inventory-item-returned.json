@@ -1,0 +1,36 @@
+{
+    "heading": "Goods Return",
+    "heading2": "Goods Returned",
+    "list": {
+        "id": "Quality Check #",
+        "return_no_display": "Purchase return #",
+        "po_no_display": "PO #",
+        "po_date_display": "PO Date",
+        "return_date_display": "Return Date",
+        "goods_received_id": "GRN #",
+        "entry_date_time_display": "Added Date",
+        "total_amount_display": "Total Amount",
+        "status": "Status",
+        "item": "Item",
+        "returned_qty": "Returned Qty",
+        "rate": "Rate",
+        "total_amount": "Total Amount",
+        "notes": "Notes",
+        "enter_grn": "Enter GRN"
+    },
+    "form": {
+        "supplier": "Supplier",
+        "order_placed": "Order Date",
+        "billing_to": "Billing To",
+        "shipping_to": "Shipping To",
+        "total_products": "Total Products",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive",
+        "purchase_order_date": "Purchase Order Date",
+        "returnDate": "Return Date",
+        "billing": "Billing",
+        "shipping": "Shipping"
+    }
+}

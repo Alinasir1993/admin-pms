@@ -1,0 +1,15 @@
+{
+    "heading": "On Break Staff",
+    "list": {
+        "staff_name_display": "Name",
+        "last_room_display": "Last Room #",
+        "started_time_display": "Started Time",
+        "ended_time_display": "Ended Time",
+        "status_display": "Status"
+    },
+    "form": {
+        "housekeeper": "Housekeeper",
+        "notes": "notes",
+        "clean_type": "Clean Type"
+    }
+}

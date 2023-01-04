@@ -1,0 +1,14 @@
+{
+    "heading": "Comodidades",
+    "sub_heading": "Cambie sus comodidades",
+    "list": {
+        "name": "Nombre",
+        "type": "Escribe",
+        "short_key": "Clave corta"
+    },
+    "form": {
+        "name": "Nombre",
+        "type": "Escribe",
+        "short_key": "Clave corta"
+    }
+}

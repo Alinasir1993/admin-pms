@@ -1,0 +1,11 @@
+{
+    "heading": "Cashier Locations",
+    "list": {
+        "name": "Name",
+        "short_code": "Nickname",
+        "table_id_name": "Where use"
+    },
+    "form": {
+        "name": "Name"
+    }
+}

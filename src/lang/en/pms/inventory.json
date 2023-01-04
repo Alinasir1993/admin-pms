@@ -1,0 +1,22 @@
+{
+    "heading" : "Inventory",
+    "tabs":{
+        "items"  :    "Items",
+        "items_requested"  :    "Items Requested",
+        "request_purchase_order"  :    "Request Purchase Order",
+        "order_placed"  :    "Order Placed",
+        "goods_received"  :    "Goods Received",
+        "quality_check"  :    "Quality Check",
+        "goods_returned"  :    "Goods Returned"
+    },
+    "inventory":{
+        "items"  :    "Items",
+        "items_requested"  :    "Items Requested",
+        "request_purchase_order"  :    "Request Purchase Order",
+        "order_placed"  :    "Order Placed",
+        "goods_received"  :    "Goods Received",
+        "quality_check"  :    "Quality Check",
+        "goods_returned"  :    "Goods Returned",
+        "restaurant_ingredients"  :    "Restaurant Ingredients"
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "heading": "Units",
+    "add": "Add Unit",
+    "edit": "Edit Unit",
+    "list": {
+        "name": "Name",
+        "description": "Description",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Name",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive"
+    }
+}

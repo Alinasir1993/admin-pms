@@ -1,0 +1,19 @@
+{
+    "heading": "Meal Plans",
+    "add": "Add Meal Plan",
+    "edit": "Edit Meal Plan",
+    "form": {
+        "short_code": "Short Code",
+        "meal_plan": "Meal Plan",
+        "assign_meal": "Assign Meal Plan On",
+        "check_in": "Check In",
+        "check_out": "Check Out",
+        "stay_over": "Stay Over",
+        "rate_type": "Room Package",
+        "one": "one",
+        "two": "two",
+        "three": "three",
+        "four": "four",
+        "add_beds":"Add Beds"
+    }
+}

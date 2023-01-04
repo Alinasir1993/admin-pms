@@ -1,0 +1,14 @@
+{
+    "heading": "Room Features",
+    "sub_heading": "Please change your Room Features",
+    "list": {
+        "name": "Name",
+        "short_key": "Short key"
+    },
+    "form": {
+        "name": "Name",
+        "add_room_feature": "Add Room Feature",
+        "edit_room_feature": "Edit Room Feature",
+        "short_key": "Short key"
+    }
+}

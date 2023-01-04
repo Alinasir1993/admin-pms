@@ -1,0 +1,24 @@
+{
+    "heading": "Exchange Rate",
+    "sub_heading": "Please change your Exchange Rate",
+    "add": "Add Exchange Rate",
+    "edit": "Edit Exchange Rate",
+    "list": {
+        "name": "Name",
+        "country": "Country",
+        "sign": "Sign",
+        "currency_code": "Currency Code",
+        "digits_after_decimal": "Digits After Decimal",
+        "exchange_rate": "Exchange Rate"
+    },
+    "form": {
+        "name": "Name",
+        "country": "Country",
+        "sign": "Sign",
+        "currency_code": "Currency Code",
+        "digits_after_decimal": "Digits After Decimal",
+        "exchange_rate": "Exchange Rate",
+        "sign_placement": "Sign Placement",
+        "currency_name_word": "Currency Name Word"
+    }
+}

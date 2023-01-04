@@ -1,0 +1,28 @@
+{
+    "heading": "Tables",
+    "add":  "Add Restaurant Table",
+    "edit": "Edit Restaurant Table",
+    "sub_heading": "Please change your Restaurants",
+    "list": {
+        "name": "Table Name",
+        "restaurant_name": "Restaurant Name",
+        "max_people": "Max People",
+        "position": "Position"
+    },
+    "form": {
+        "name": "Table Name",
+        "table_no": "Table #",
+        "restaurant_id": "Restaurant Name",
+        "max_people": "Max People",
+        "position": "Position",
+        "table_shape": "Table Shape",
+        "bg_color": "Background",
+        "font_color": "Font Color",
+        "circle": "Circle",
+        "square": "Square",
+        "area": "Area",
+        "circular": "Circular",
+        "rectangular": "Rectangular",
+        "radius": "Radius"
+    }
+}

@@ -1,0 +1,35 @@
+{
+    "heading": "Item Requests",
+    "add_request": "Add Request",
+    "edit_request": "Edit Request",
+    "order_details": "Order Details",
+    "list": {
+        "id": "Order #",
+        "order_no": "Order #",
+        "porduct_name": "Item",
+        "qty": "Qty",
+        "supplier_name_display": "Supplier",
+        "expected_delivery_date_time": "Expected Date",
+        "order_placed_at_display": "Order Placed Date",
+        "status": "Status",
+        "product_group": "Product Group",
+        "product_name": "Product Name",
+        "quantity": "Quantity",
+        "unit": "Unit",
+        "remarks": "Remarks",
+        "enter_order": "Enter Order #"
+    },
+    "form": {
+        "exp_delivery_date": "Expected Delivery Date",
+        "notes": "Notes",
+        "name": "Name",
+        "unit": "Unit",
+        "min_stock": "Min Stock",
+        "max_stock": "Max Stock",
+        "re_order_level": "Re-order Level",
+        "description": "Description",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive"
+    }
+}

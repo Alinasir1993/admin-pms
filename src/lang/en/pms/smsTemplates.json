@@ -1,0 +1,28 @@
+{
+    "heading": "Automated Messages",
+    "list": {
+        "key": "Key",
+        "title": "Title",
+        "title_display": "Title",
+        "message": "Message",
+        "auto_send": "Auto Send Sms",
+        "auto_send_display": "Auto Send Sms",
+        "no_of_days": "# Days",
+        "days": "Days",
+        "date": "Date",
+        "time": "Time"
+
+    },
+    "form": {
+        "key": "Key",
+        "title": "Title",
+        "add_sms_template": "Add Automated Message",
+        "edit_sms_template": "Edit Automated Message",
+        "message": "Message",
+        "no_of_days": "# Days",
+        "auto_send": "Auto Send Sms",
+        "days": "Days",
+        "date": "Date",
+        "time": "Time"
+    }
+}

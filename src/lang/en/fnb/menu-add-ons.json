@@ -1,0 +1,17 @@
+{
+    "heading": "Menu Add Ons",
+    "add": "Add Menu Add Ons",
+    "edit": "Edit Menu Add Ons",
+    "list": {
+        "name": "Name",
+        "price": "Price",
+        "status": "Status"
+    },
+    "form": {
+        "name": "Name",
+        "price": "Price",
+        "status": "Status",
+        "active": "Active",
+        "inactive": "Inactive"
+    }
+}

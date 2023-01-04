@@ -1,0 +1,34 @@
+{
+    "heading": "Payment Methods",
+    "sub_heading": "Please change your Payment Methods",
+    "add": "Add Payment Method",
+    "edit": "Edit Payment Method",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "type": "Type",
+        "card_processing": "Card Processing",
+        "guest_deposit": "Guest Deposit",
+        "receipt_no": "Receipt No",
+        "surcharge_setting": "Surcharge Setting",
+        "method": "Method",
+        "value": "Value",
+        "extra_charge": "Extra Charge"
+    },
+    "form": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "type": "Type",
+        "card_processing": "Card Processing",
+        "guest_deposit": "Consider it as Guest Deposit",
+        "receipt_no": "Receipt No",
+        "surcharge_setting": "Surcharge Setting",
+        "method": "Method",
+        "value": "Value",
+        "extra_charge": "Extra Charge",
+        "cash": "Cash",
+        "bank": "Bank",
+        "amount": "AMOUNT",
+        "percentage": "PERCENTAGE"
+    }
+}

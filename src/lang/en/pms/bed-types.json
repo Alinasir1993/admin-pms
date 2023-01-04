@@ -1,0 +1,14 @@
+{
+    "heading": "Beds",
+    "sub_heading": "Please change your Beds",
+    "add_beds": "Add Bed Type",
+    "edit_beds": "Edit Bed Type",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code"
+    },
+    "form": {
+        "short_code": "Short Code",
+        "name": "Name"
+    }
+}

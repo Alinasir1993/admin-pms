@@ -1,0 +1,39 @@
+{
+    "heading": "Room Types",
+    "sub_heading": "Please change your Room Types",
+    "add": "Add Room Type",
+    "edit": "Edit Room Type",
+    "list": {
+        "name": "Name",
+        "short_code": "Short Code",
+        "base_adult": "# Adult Guest",
+        "base_child": "# Child Guest",
+        "max_adult": "# Max Adult",
+        "dimensions": "Room Size (Sq.Ft)",
+        "max_child": "# Max Children"
+    },
+    "form": {
+        "name": "Name",
+        "name_of_room_type": "Name of Room Type",
+        "short_code": "Abbreviation",
+        "room_type": "Room Type",
+        "base_adult": "# Adult Guest",
+        "base_child": "# Child Guest",
+        "max_adult": "# Max Adults (17+)",
+        "max_child": "# Max Children",
+        "publish_website": "Publish Website",
+        "dimensions": "Room Size",
+        "sqFeet": "Sq Feet",
+        "is_paymaster": "Is Paymaster",
+        "features": "Features",
+        "location": "Location",
+        "floor": "Floor",
+        "bed_type": "Bed Type",
+        "add_new_feature": "Add New Feature",
+        "add_new_bed_type": "Add New Bed Type",
+        "amenities": "Amenities",
+        "add_new_amenity": "Add New Amenity",
+        "room_type_categories" : "Room Type Categories",
+        "add_new_room_type_category": "Add New Room Type Category"
+    }
+}
